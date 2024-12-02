@@ -1,0 +1,7 @@
+Before Sorting:
+2 1 5 10 8 
+
+Calling Merge Sort...
+
+After Sorting:
+1 2 5 8 10 

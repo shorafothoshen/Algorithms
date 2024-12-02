@@ -1,0 +1,4 @@
+0 2 4 -1 
+INF 0 2 -2 
+INF INF 0 3 
+INF INF INF 0 
